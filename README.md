@@ -1,20 +1,8 @@
 # Personal Portfolio
 
-This repository contains my personal portfolio website, showcasing my skills and projects.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
-Welcome to my personal portfolio repository! This project aims to present my professional background, skills, projects, and contact information in an organized and visually appealing manner. It serves as a central hub for anyone interested in learning more about me and my work.
+This is a personal portfolio sample website based on static HTML. It can be easily shared using GitHub Pages. Feel free to edit and customize it for your own portfolio website. 
 
 ## Features
 
